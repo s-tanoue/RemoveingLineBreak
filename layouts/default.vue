@@ -4,7 +4,7 @@
       fixed
       app
     >
-      Removed line breaks
+      Removed Line Breaks
     </v-app-bar>
     <v-content>
       <v-container>
