@@ -1,4 +1,6 @@
-# TrimEnglishSentence
+# Removed Line Breaks
+It is a web application that removes English sentences that contain strange line breaks.
+https://removed-line-breaks.web.app/
 
 > My brilliant Nuxt.js project
 
